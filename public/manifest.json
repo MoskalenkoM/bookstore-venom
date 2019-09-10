@@ -1,0 +1,52 @@
+{
+  "name": "bookstore-venom",
+  "lang": "ru",
+  "short_name": "venom",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#E8683E",
+  "theme_color": "#6ebd4c",
+  "description": "bookstore-venom",
+  "icons": [
+    {
+      "src": "./img/icons/apple-touch-icon-60x60.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/apple-touch-icon-76x76.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/apple-touch-icon-76x76.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/msapplication-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/mstile-150x150.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/safari-pinned-tab.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

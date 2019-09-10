@@ -1,0 +1,9 @@
+:root {
+  /* colors */
+  --my_red: red;
+  --my_blue: blue;
+
+  /* fonts */
+  --roboto: Roboto;
+  --roboto_b: RobotoBold;
+}
