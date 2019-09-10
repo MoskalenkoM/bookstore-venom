@@ -1,6 +1,6 @@
 # bookstore-venom
 
-## Project setup
+## Project setup (VENOM = Vue.js + Express.js + Node.js + MongoDB)
 
 ```
 npm install
